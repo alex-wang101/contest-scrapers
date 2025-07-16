@@ -5,11 +5,10 @@ import json
 ollama_url = "http://localhost:11434/api/generate"
 model_name = "llama3.2:3b"
 
-def agent(input_data, system_prompt):
+def agent(input_data, system_prompt, divide):
     with open("data/training_data_primary.jsonl", "w") as file:
-        input_start = len(input_data) // 2
-        input_end = len(input_data)  // 4 + input_start
-        for idx in range(input_start, input_end):  
+        ranges = divide * 2
+        for idx in range(ranges, (ranges + divide)):  
             j = input_data[idx]
             for key, value in j.items():
                 data = value

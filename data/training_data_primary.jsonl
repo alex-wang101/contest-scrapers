@@ -1,0 +1,193 @@
+{"Question": "What does Year represent?", "Answer": "The year of each data point in the table."}
+
+{"Question": "What does EEP represent?", "Answer": "Expected Excess Payoff."}
+
+{"Question": "What does RP represent?", "Answer": "Risk Premium."}
+
+{"Question": "What does U represent?", "Answer": "Uncertainty."}
+
+{"Question": "What does Payment represent?", "Answer": "The potential returns of the investment at a specified extreme tail scenario, useful for downside risk management."}
+
+{"Question": "What does IRR represent?", "Answer": "Internal Rate of Return."}
+
+{"Question": "What does TVaR represent?", "Answer": "Value-at-Risk, articulates the potential returns at a specified extreme tail scenario."}
+
+{"Question": "What does Probability of negative return represent?", "Answer": "The likelihood that the investment will result in a loss or negative return."}
+{"Question": "What does Partial Points represent?", "Answer": "Awarded to candidates for reasonable answers without full supporting justification."}
+
+{"Question": "What does Simulation Output represent?", "Answer": "A comprehensive range of possible outcomes to inform risk-adjusted decision making."}
+
+{"Question": "What does Risk-Adjusted Decision Making represent?", "Answer": "Involves considering probabilities and tail risks when making decisions."}
+
+{"Question": "What does Hedging Effectiveness represent?", "Answer": "The ability to mitigate potential losses through strategic position adjustments or other means."}
+
+{"Question": "What does Portfolio Accumulations represent?", "Answer": "The total value of assets within a portfolio over time."}
+
+{"Question": "What does Diversification represent?", "Answer": "The process of spreading investments across different asset classes to reduce risk."}
+
+{"Question": "What does Single Deterministic Analysis represent?", "Answer": "A type of analysis that assumes only one possible outcome."}
+
+{"Question": "What does Risk Management Responses represent?", "Answer": "Strategies or actions taken to mitigate potential risks."}
+
+{"Question": "What does Position Represent?", "Answer": "A specific asset or security held within a portfolio."}
+
+{"Question": "What does Portfolio Exit Represent?", "Answer": "The act of selling or removing assets from a portfolio."}
+
+{"Question": "What does Simulation Engine represent?", "Answer": "A system that allows for the creation and execution of simulations."}
+
+{"Question": "What does Scenario Represent?", "Answer": "A hypothetical situation used to test or evaluate assumptions, models, or strategies."}
+{"Question": "What does Upside Downward Communication represent?", "Answer": "A type of communication where information is sent from a higher-level position to a lower-level position."}
+
+{"Question": "What does Barrier to Effective Communication represent?", "Answer": "An obstacle that hinders the free flow of information and ideas within an organization."}
+
+{"Question": "What does Rate of Return represent?", "Answer": "The gain or profit derived from a particular investment or business venture, typically expressed as a percentage."}
+
+{"Question": "What does Downside Risk represent?", "Answer": "The potential loss or negative consequences that can arise from an investment or business venture, often measured in terms of potential returns or losses."}
+
+{"Question": "What does Diversify the Book of Loans represent?", "Answer": "To spread investments across different types of loans to minimize risk by reducing dependence on any one particular loan type or market."}
+
+{"Question": "What does Solar Panel Financing represent?", "Answer": "A method of financing solar panel installations, where the costs are financed over time and then repaid through energy savings or other means."}
+
+{"Question": "What does Energy Prices represent?", "Answer": "The cost of electricity generated from various sources, such as coal, natural gas, nuclear, and renewable sources like wind and solar power."}
+{"Question": "What does IRR distribution represent?", 
+"Answer": "A graph showing the Internal Rate of Return (IRR) distribution."}
+
+{"Question": "What does Upward communication represent?", 
+"Answer": "Communication that flows from an analyst to senior management, such as reporting results and shortfalls."}
+
+{"Question": "What does Status differences represent?", 
+"Answer": "A situation where management is ignoring a candidate's concerns about the shortcomings of a model."}
+
+{"Question": "What does Time pressures represent?", 
+"Answer": A situation where a candidate is required to send results by a certain deadline without having time for thorough explanation."}
+{"Question": "What does Learning Objectives represent?", "Answer": "A set of objectives that the candidate is expected to achieve through learning and application."}
+
+{"Question": "What does Strategic Management Concepts represent?", "Answer": "Theoretical frameworks and methods used to analyze, develop, and implement business strategies."}
+
+{"Question": "What does Frameworks represent?", "Answer": "Pre-established models or structures used as a basis for analyzing or solving complex problems."}
+
+{"Question": "What does External Environment represent?", "Answer": "The surroundings in which an organization operates, including market trends, competitors, and government regulations."}
+
+{"Question": "What does Internal Organization represent?", "Answer": "An organization's own internal structure, processes, and systems."}
+
+{"Question": "What does Business Level Strategies represent?", "Answer": "Types of strategies employed by businesses to achieve competitive advantage, such as cost leadership or differentiation."}
+
+{"Question": "What does Competitive Dynamics represent?", "Answer": "The interactions between businesses and their environment, including market forces and competitors."}
+
+{"Question": "What does Economic Risk represent?", "Answer": "The potential for financial loss or instability due to external factors."}
+
+{"Question": "What does Business Growth Strategies represent?", "Answer": "Methods used by businesses to increase revenue and expand operations."}
+
+{"Question": "What does Organic Growth represent?", "Answer": "A business strategy that focuses on internal growth through innovation, efficiency, and talent development."}
+
+{"Question": "What does Inorganic Growth represent?", "Answer": "A business strategy that involves external expansion through mergers, acquisitions, or partnerships."}
+
+{"Question": "What does Causal Loop Diagrams represent?", "Answer": "Visual representations used to model the feedback structure of complex systems."}
+
+{"Question": "What does Stocks and Flows represent?", "Answer": "Methods used to analyze and understand dynamic systems by tracking inputs and outputs."}
+
+{"Question": "What does Dynamic Modeling represent?", "Answer": "The process of creating mathematical or computational models to analyze and predict the behavior of complex systems."}
+
+{"Question": "What does Business Decisions represent?", "Answer": "Decisions made by businesses that involve strategic choices, such as investments or resource allocation."}
+
+{"Question": "What does Sustainability represent?", "Answer": "The ability of a system or organization to endure and thrive over time, despite internal and external challenges."}
+{"Question": "What does BJT represent?", 
+"Answer": "A semiconductor company"}
+
+{"Question": "What does rubber supplier represent?", 
+"Answer": "The supplier of rubber to a semiconductor company, such as BJT"}
+
+{"Question": "What does vertical linkage represent?", 
+"Answer": "A connection between two organizations' supply chains that reduces operational costs"}
+
+{"Question": "What does oscillation represent?", 
+"Answer": "Achronically overshoot and undershoot the appropriate levels of production and inventories in stock management"}
+
+{"Question": "What does amplification represent?", 
+"Answer": "The amplitude of business cycle fluctuations in materials production compared to consumer good production"}
+
+{"Question": "", 
+"Answer": ""}
+
+{"Question": "What does supply chain represent?", 
+"Answer": "A series of activities and tasks involved in sourcing, producing, and delivering products or services"}
+
+{"Question": "What does stock management represent?", 
+"Answer": "The process of managing inventory levels and ensuring that the right products are available at the right time and in the right quantities"}
+
+{"Question": "", 
+"Answer": ""}
+{"Question": "What does Steady State Error represent?", "Answer": "A consistent difference between desired and actual stock."}
+
+{"Question": "What does Stock Management consider when planning for inventories?", "Answer": "Steady state error, which is the ongoing throughput/loss of inventory to things like sales."}
+
+{"Question": "What does Steady State Error calculation represent?", "Answer": "The difference between desired and actual stock over a period of time."}
+
+{"Question": "What is the expected monthly inventory of BJT's customers for stock for 25 months?", "Answer": Not provided in the text, as it was not calculated by candidates.}
+
+{"Question": "What does a Causal Loop Diagram represent?", "Answer": "The relationship between variables in a system, showing how changes in one variable affect others."}
+
+{"Question": "What is the purpose of a Causal Loop Diagram in this context?", "Answer": "To illustrate the balancing loop between desired stock, acquisition rate, and adjustment for stock."}
+{"Question": "What does Stock represent?", "Answer": "The amount of goods or products held in inventory."}
+
+{"Question": "What does Demand represent?", "Answer": "The quantity of goods or products that customers are willing and able to purchase."}
+
+{"Question": "What does Adjustment represent?", "Answer": "A change made to something, typically a stock or inventory level, in response to changes in demand or supply."}
+
+{"Question": "What does Acquisition rate represent?", "Answer": "The rate at which new goods or products are added to the existing stock or inventory."}
+
+{"Question": "What does Amplification Ratio represent?", "Answer": "A measure of the maximum change in output divided by the maximum change in input, used to assess the impact of fluctuations in demand on supply chain."}
+{"Question": "What does Expected Loss represent?", "Answer": "The expected number of losses over a given period, taking into account factors such as failure rates and demand for tires."}
+
+{"Question": "What does Amplification Ratio represent?", "Answer": "A factor by which the actual loss is multiplied to calculate the expected loss, used in actuarial models to adjust for uncertainty."}
+
+{"Question": "What does Stock Adjustment Time represent?", "Answer": "The amount of time it takes for the stock level to adjust to changes in demand or replacement rates, affecting the expected loss calculation."}
+{"Question": "What does Amplification ratio represent?", "Answer": "A measure that is inversely related to Stock Adjustment Time and Expected Loss."}
+
+{"Question": "What does Stock Adjustment Time represent?", "Answer": "The time it takes for an item, in this case airplane or car parts, to be replenished from the stock."}
+
+{"Question": "What does Expected Loss represent?", "Answer": "A predicted financial loss due to a shortage of items in stock."}
+
+{"Question": "What does Bargaining Power of Buyers represent?", " "}
+
+{"Question": "What does Bargaining Power of Suppliers represent?", "Answer": "The ability of suppliers, such as BJT, to influence the price and quality of their products."}
+
+{"Question": "What does Threat of New Entrants represent?", "Answer": "A possibility that new companies can enter a market and potentially disrupt existing businesses like BJT."}
+{"Question": "What does Threat of substitute products represent?", "Answer": "The potential risk of competitors developing alternative products, such as synthetic rubber tires, which could impact the market."}
+
+{"Question": "What does Rivalry among competitors represent?", "Answer": "The competition or challenge faced by a company in terms of its relationships with other businesses in the same industry."}
+
+{"Question": "What does Actions described represent?", "Answer": "A set of steps that need to be taken within a specific timeframe (2 months) to address a situation and mitigate its impact on the rubber supply."}
+
+{"Question": "What does M&A represent?", "Answer": "Mergers and Acquisitions, which involves the combination of two or more companies to create a new entity, often to improve efficiency or gain market share."}
+
+{"Question": "What does Establishing long term partnerships represent?", "Answer": "The process of building relationships with other businesses or organizations over an extended period, usually for mutual benefit and stability."}
+
+{"Question": "What does Expansion of capacity represent?", "Answer": "Increasing production or manufacturing capabilities to meet increased demand or produce more goods."}
+
+{"Question": "What does Lowering the quality of tires represent?", "Answer": "Reducing the standards of product quality, in this case, tire quality, temporarily to achieve a specific goal, such as meeting a sudden increase in demand."}
+
+{"Question": "What does Increase the adjustment time represent?", "Answer": "Extending the period required for a change or adjustment to take effect, often used to mitigate potential negative impacts."}
+
+{"Question": "What does Increase in prices represent?", "Answer": "A rise in the cost of goods or services, which can be caused by various factors, including changes in demand or supply."}
+
+{"Question": "What does Using synthetic rubber instead of regular rubber represent?", "Answer": "Switching from traditional materials to alternative ones, such as synthetic rubber, often for improved performance or sustainability reasons."}
+{"Question": "What does type/amount represent?", "Answer": "The type of reward a customer responds best to, e.g., money vs. verbal acknowledgment, along with its amount or size."}
+
+{"Question": "What does timing represent?", "Answer": "The optimal timing or frequency of incentives needed to keep customers loyal without exhausting resources."}
+
+{"Question": "What does sustainability represent?", "Answer": "The likelihood that the chosen acknowledgment method will be sustainable over time."}
+
+{"Question": "What does incident number represent?", "Answer": "A unique identifier for each incident, example: 000008-01012018"}
+
+{"Question": "What does line wait represent?", "Answer": "The length of time a customer has to wait in line."}
+
+{"Question": "What does frequency represent?", "Answer": "The number of times an incentive or reward is given to customers within a specific period."}
+
+{"Question": "What does calendar year represent?", "Answer": "A year used as a unit of time for scheduling or planning purposes, e.g., every quarter or month."}
+
+{"Question": "What does model represent?", "Answer": "A theoretical framework or concept that explains a relationship between variables."}
+
+{"Question": "What does total gross sales represent?", "Answer": "The total amount earned from the sale of goods or services before any deductions."}
+
+{"Question": "What does income before taxes represent?", "Answer": "The amount of money earned from a source, excluding taxes and other deductions."}

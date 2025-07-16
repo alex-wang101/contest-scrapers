@@ -1,0 +1,78 @@
+{"Question": "What does c represent?", "Answer": "A constant that represents the change in the correlation coefficient between two variables"}
+
+
+{"Question": "What does aax|yy represent?", "Answer": "The change in the correlation coefficient from independence to positive correlation for the relationship between x and y variables"}
+
+
+{"Question": "What does axx|yy represent?", "Answer": "A specific case where (x) dies before (y), resulting in an increase in payments due to a longer average life expectancy of (x)"}
+
+
+{"Question": "What does axx|yy represent?", "Answer": "Another specific case where (y) dies before (x), leading to a decrease in payments due to a shorter average life expectancy of (y)"}
+{"Question": "What does FAS represent?", "Answer": "Full Annual Salary"}
+
+{"Question": "What does EPV represent?", "Answer": "Expected Present Value"}
+{"Question": "What does EEPPMV represent?", "Answer": "Expected Present Value of Pension Payments"}
+
+{"Question": "What does pp represent?", "Answer": "Partner's pension rate"}
+
+{"Question": "What does ss represent?", "Answer": "Single pension rate"}
+
+{"Question": "What does AL represent?", "Answer": "Annual Limit"}
+{"Question": "What does NC represent?", "Answer": "Net Cost"}
+{"Question": "What does EE40 represent?", "Answer": "EE40 discount rate"}
+{"Question": "What does S represent?", "Answer": "Survivor benefit"}
+{"Question": "What does Final Average Salary represent?", "Answer": "The final average salary considered for Normal Cost calculation, including projected increases and decreases."}
+
+{"Question": "What does SS39(1.03) represent?", "Answer": "A salary increase of 3% applied to the base salary of $39,000."}
+
+{"Question": "What does (12) represent?", "Answer": "A multiplier used to apply the salary increase or decrease to the base salary."}
+
+{"Question": "What does FAS represent?", "Answer": "The Final Average Salary, which is the average of an employee's final 3 years of salary, including projected increases and decreases."}
+
+{"Question": "What does AALL represent?", "Answer": "The Normal Cost for a full year of service, calculated as (Final Average Salary) * (multiplier) / (base multiplier)."}
+
+{"Question": "What does NC represent?", "Answer": "The Normal Cost rate, which is used to calculate the cost of a full year of service."}
+
+{"Question": "What does NNC represent?", "Answer": "A less common error that occurred when some candidates incorrectly credited 45 years of service instead of 20 years."}
+
+{"Question": "What does DC represent?", "Answer":"}
+{"Question": "What does 𝑃𝑃𝑉𝑉9 represent?", "Answer": "A representation of the average price of a unit of fuel."}
+
+{"Question": "What does 𝜋𝜋9 represent?", "Answer": "The value of the premium tax multiplied by the number of units sold."}
+{"Question": "What does At time represent?", "Answer": "A point in time when specific information is given"}
+{"Question": "What does future payments plus maintenance expenses represent?", "Answer": "The total cost of expected payments and maintenance over a period"}
+{"Question": "What does where represents?", "Answer": "A place or condition that introduces an explanation or justification"}
+{"Question": "What does 8𝑉𝑉 represent?", "Answer": "An equation representing the future value of a series of payments"}
+{"Question": "What does 𝐸𝐸𝑁𝑝𝑅𝑃𝑅𝑅𝑄𝑈𝑆 represents?", "Answer": "The expected rate of increase in the guarantee period"}
+{"Question": "What does (𝐵𝐵+25) represent?", "Answer": "A base value plus a fixed amount, used in calculating future values"}
+{"Question": "What does 𝑎𝑎 represents?", "Answer": "A constant or factor used in calculations"}
+{"Question": "What does 8:10−8 represents?", "Answer": "A discount rate applied to the future value calculation"}
+{"Question": "What does 1.85941 represents?", "Answer": "The result of a calculation, used as a factor in determining future values"}
+{"Question": "What does (0.879036) represents?", "Answer": "A multiplier or adjustment factor applied to another value"}
+{"Question": "What does 9.3178 represents?", "Answer": "A rate or percentage used in calculations"}
+{"Question": "What does 𝑖𝑖9−𝑖𝑖 represents?", "Answer": "A time period or term, used as a variable in the equation"}
+{"Question": "What does 0.06−0.05 represents?", "Answer": "A difference between two values, representing the rate of increase"}
+{"Question": "What does (76,107.81) represents?", "Answer": "The result of applying future value calculation to a base value"}
+{"Question": "What does 𝑃𝑃𝑉𝑉9 represent?", "Answer": "A payment or amount received at a specific point in time"}
+{"Question": "What does (𝐵𝐵+25)𝑣𝑣 represents?", "Answer": "A base value plus a fixed amount, used to calculate future payments"}
+{"Question": "What does 9𝑉𝑉 represent?", "Answer": "An alternative calculation for future values"}
+{"Question": "What does (𝐵𝐵+25)𝑣𝑣+ represents?", "Answer": "A base value plus a fixed amount, used to calculate an adjusted future payment"}
+{"Question": "What does 1.05 represents?", "Answer": "A multiplier or adjustment factor applied to the base value"}
+{"Question": "What does (0.936724) represents?", "Answer": "A multiplier or adjustment factor applied to another value"}
+{"Question": "", "Answer": ""}
+{"Question": "What does State 1 represent?", "Answer": "The name of a state or location"}
+{"Question": "What does In represent?", "Answer": "A preposition indicating a relationship between two things"}
+{"Question": "What does (𝐵𝐵+25)𝑎𝑎2 represents?", "Answer": "A base value plus a fixed amount, used to calculate future payments at a specific point in time"}
+{"Question": "What does 1.85941(9.3178) represents?", "Answer": "The result of applying a calculation and rate to another value"}
+{"Question": "What does (7547.848+25) represent?", "Answer": "A base value plus a fixed amount, used in calculating future values"}
+{"Question": "", "Answer": ""}
+{"Question": "What does 𝑖𝑖9−𝑖𝑖 represents?", "Answer": "A time period or term, used as a variable in the equation"}
+{"Question": "What does (14,081.03) represents?", "Answer": "The result of applying future value calculation to a base value"}
+{"Question": "What does 9.3178(𝑖𝑖9−𝑖𝑖) represent?", "Answer": "A rate or percentage applied to another value"}
+{"Question": "", "Answer": ""}
+{"Question": "What does (7212.236) represents?", "Answer": "The result of applying alternative calculation for future values"}
+{"Question": "What does 66,097.384 represent?", "Answer": "An adjustment or addition made to the base value"}
+{"Question": "What does 73,309.62 represents?", "Answer": "The final result of combining two calculations"}
+{"Question": "", "Answer": ""}
+{"Question": "What does (0.936724) represents?", "Answer": "A multiplier or adjustment factor applied to another value"}
+{"Question": "", "Answer": ""}
