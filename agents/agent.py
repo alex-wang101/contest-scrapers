@@ -6,9 +6,8 @@ ollama_url = "http://localhost:11434/api/generate"
 model_name = "llama3.2:3b"
 
 def agent(input_data, system_prompt, divide):
-    with open("data/training_data_primary.jsonl", "w") as file:
-        ranges = divide * 2
-        for idx in range(ranges, (ranges + divide)):  
+    with open("data/training_data.jsonl", "a") as file:
+        for idx in range(divide, (divide * 2)):  
             j = input_data[idx]
             for key, value in j.items():
                 data = value

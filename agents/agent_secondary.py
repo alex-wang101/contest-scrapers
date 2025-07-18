@@ -7,8 +7,8 @@ model_name = "llama3.2:3b"
 
 
 def agent_secondary(input_data, system_prompt, divide):
-    with open("data/training_data_secondary.jsonl", "w") as file:
-        ranges = divide * 3
+    with open("data/training_data.jsonl", "a") as file:
+        ranges = divide * 2
         for idx in range(ranges, (ranges + divide)):
             j = input_data[idx]
             for key, value in j.items():
