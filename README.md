@@ -1,5 +1,3 @@
----
-
 ## 🧩 Key Features
 
 - ** Multi-Agent Data Generation: **  
@@ -17,7 +15,6 @@
 - ** Extensible & Modular: **  
   Easily add new agents or data sources to expand coverage or adapt to new exam syllabi.
 
----
 
 ## 🛠️ Usage
 
